@@ -1,0 +1,3 @@
+L.sort()
+print(L)
+
